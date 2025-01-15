@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Mstyslav, and I'm a Front-end Web Developer from the United Kingdom. 🇬🇧 </h2>
+<h2 align="left">Hi 👋! My name is Mstyslav, and I'm a Front-end Web Developer from the United Kingdom 🇬🇧 (UK).
+
+
+</h2>
 
 ###
 
