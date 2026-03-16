@@ -12,11 +12,6 @@
 
 ###
 
-<img align="right" height="300" src="https://media.tenor.com/39c7_ZNzC4MAAAAi/silly-cat-silly.gif"  />
-
-
-###
-
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mstyslavsoroka&color=121212)
 
