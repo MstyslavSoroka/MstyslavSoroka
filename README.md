@@ -4,11 +4,9 @@ Hi 👋! My name is Mstyslav, and I'm a Front-end Web Developer from the United 
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MstyslavSoroka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MstyslavSoroka&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MstyslavSoroka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MstyslavSoroka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
